@@ -1,6 +1,5 @@
 # reactWebApp-s2i
-# springboot-docker
- 
+
  
 ## Step 1 - Create a new namespace  
 ``` 
