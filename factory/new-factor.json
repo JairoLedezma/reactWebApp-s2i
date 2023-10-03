@@ -1,0 +1,9 @@
+{
+	"name": "new-factor",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7645b07-92b4-425e-8fd3-7674bbdaf053",
+		"tenantId": "2bf29839-f02c-4712-a69e-20dda417cbfc"
+	}
+}
